@@ -1,0 +1,15 @@
+#title {
+    font-family: "Times New Roman", serif;
+    font-weight: 700;
+    text-align: center;
+}
+
+ul {
+    padding: 0; /* padding may push the item away */
+    list-style-position: inside; /* Move bullet points inside the list */
+    text-align: center;
+}
+
+li {
+    font-family: "Times New Roman", serif;
+}
